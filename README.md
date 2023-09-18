@@ -35,6 +35,10 @@
 2. The folder is "SoundFiles/PlayALL"
 
 
-
+## To use, please follow the following steps
+1. download all files inside "j-language/src" and recompile it in your own IDE, such as VSC.
+2. record each word in those word list files. You can read those words continuousely, and then use sound editing tools to cut into a sound file for each word.
+3. For a word list file that contains more than 300 words, you can print it out and record one page a day. It may takes about 10 to 20 days to record all words.
+   
 
 
