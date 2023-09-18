@@ -1,6 +1,12 @@
 # Tutored A High Scholl Student In 2013 TO Do A Science Project That Can Read A Typed Sentence In Her Voice
+## The folder "j-language" include the java source files and bin files, which were developed in the eclipse environment.
+### j-language
+1. bin
+2. doc
+3. src
 
-## Java Files - All Java files are inside "j-language" folder
+   
+## Java Files - All Java files are inside "j-language/src" folder
 1. JhuMain.java      --- load sound categories of words and their sound by using objects of the following java files
 2. Jhu_ajective.java --- load adjective words and their sound files
 3. Jhu_adverb.java   --- load adverb words and their sound files
